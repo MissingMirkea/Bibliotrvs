@@ -1,0 +1,10 @@
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\obj\Debug\Biblioteca.Form1.resources
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\obj\Debug\Bibliotrvs.Properties.Resources.resources
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\bin\Debug\Bibliotrvs.exe.config
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\bin\Debug\Bibliotrvs.exe
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\bin\Debug\Bibliotrvs.pdb
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\obj\Debug\Bibliotrvs.exe
+C:\Users\Mirko\Documents\GitHub\C#\Bibliotrvs\Bibliotrvs\obj\Debug\Bibliotrvs.pdb
